@@ -1,0 +1,17 @@
+{
+  "name": "gotit",
+  "description": "My new project",
+  "main": "gulpfile.js",
+  "authors": [
+    "thanhtungdp <tungptkh@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
